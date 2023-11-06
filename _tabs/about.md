@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+This blog is designed to present my thoughts and knowledge about reverse engineering, gamechanging and malware. I hope I can help someone and gain acquaintances in cybersec through this blog.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Feel free to message me if you have any questions about the topics covered in my articles.
 {: .prompt-tip }
