@@ -6,7 +6,11 @@
 
 - type: discord
   icon: "fab fa-discord"
-  url: 'discord.com/users/598143999232180234'
+  url: 'https://discord.com/users/598143999232180234'
+
+- type: email
+  icon: 'fas fa-envelope'
+  noblank: true            
 
 - type: rss
   icon: "fas fa-rss"
